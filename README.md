@@ -23,6 +23,10 @@
     janji@DESKTOP-6LQAMKI MINGW64 /d/janjira/2024/projects/smashy (master)
     $git remote set-url origin https://janjiraGIT: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@github.com/janjiraGIT/smashy.git 
 
+## Error
+    - if you can't push and get msg fel "git@github.com: Permission denied (publickey).
+        fatal: Could not read from remote repository." You need to generate a new token from git hub. On git hub requies
+        the pass code from Duo application from your mobil phone.
 
 
 
